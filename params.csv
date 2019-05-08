@@ -1,0 +1,92 @@
+IPAddress,Parameter,Periodicity,RFValue,Thresholdvalue,ClientName
+10.254.228.8,Availability,10,12,0,ATMSL
+10.254.228.8,CPU IO Load,60,3,70,ATMSL
+10.254.228.8,Disk Usage,180,3,90,ATMSL
+10.254.228.8,Win-CPU Load,60,3,70,ATMSL
+10.254.228.8,Mem Usage Load,60,3,95,ATMSL
+10.254.228.8,PacketLoss,60,3,10,ATMSL
+10.254.228.8,Real_Mem_Used,60,3,70,ATMSL
+10.254.228.8,ResponseTime,60,3,250,ATMSL
+10.254.228.8,CPU Load,60,3,90,ATMSL
+10.254.228.8,Disk Usage: Per Drive,180,3,90,ATMSL
+10.254.228.8,Swap Mem Usage,60,3,90,ATMSL
+192.168.224.3,Availability,10,12,0,ATMSL
+192.168.224.3,CiscoMemoryUtilization,60,3,75,ATMSL
+192.168.224.3,CiscoTemperature,60,3,75,ATMSL
+192.168.224.3,PacketLoss,10,12,10,ATMSL
+192.168.224.3,RouterCPUUtilization,60,3,60,ATMSL
+192.168.224.3,ResponseTime,60,3,250,ATMSL
+192.168.224.3,CiscoCPUUtilization_total_5M_Rev,60,3,75,ATMSL
+192.168.224.3,CiscoCPUUtilization_total_5M,60,3,75,ATMSL
+192.168.224.3,CiscoCPUUtilization_total_1M,60,3,75,ATMSL
+192.168.224.3,CiscoCPUUtilization_total_1M_Rev,60,3,75,ATMSL
+10.254.231.7,Availability,10,12,0,ATMSL
+192.168.224.3,Availability,10,12,0,ATMSL
+192.168.224.3,CiscoMemoryUtilization,60,3,75,ATMSL
+192.168.224.3,CiscoTemperature,60,3,75,ATMSL
+192.168.224.3,PacketLoss,10,12,10,ATMSL
+192.168.224.3,RouterCPUUtilization,60,3,60,ATMSL
+192.168.224.3,ResponseTime,60,3,250,ATMSL
+192.168.224.3,CiscoCPUUtilization_total_5M_Rev,60,3,75,ATMSL
+192.168.224.3,CiscoCPUUtilization_total_5M,60,3,75,ATMSL
+192.168.224.3,CiscoCPUUtilization_total_1M,60,3,75,ATMSL
+192.168.224.3,CiscoCPUUtilization_total_1M_Rev,60,3,75,ATMSL
+10.254.208.5,CiscoTemperature,60,3,75,ATMSL
+10.254.208.5,CiscoMemoryUtilization,60,3,75,ATMSL
+10.254.208.5,Availability,10,12,0,ATMSL
+10.254.208.5,RouterCPUUtilization,60,3,60,ATMSL
+10.254.208.5,ResponseTime,60,3,250,ATMSL
+10.254.208.5,PacketLoss,10,12,10,ATMSL
+10.157.30.11,Availability,60,10,0,DB-Bhagalpur
+10.157.30.11,Disk Utilization,180,5,90,DB-Bhagalpur
+10.157.30.11,CPUUtilization,60,10,90,DB-Bhagalpur
+10.157.30.11,Per Core CPU Usage,60,3,90,DB-Bhagalpur
+10.157.30.11,Total Memory Free,60,10,5,DB-Bhagalpur
+10.157.30.11,Total Memory Used,60,10,90,DB-Bhagalpur
+10.51.30.15,Availability,60,3,0,DB-Bhopal
+10.51.30.15,CPUUtilization,60,3,90,DB-Bhopal
+10.51.30.15,Disk Utilization,300,3,90,DB-Bhopal
+10.51.30.15,Per Core CPU Usage,60,3,90,DB-Bhopal
+10.51.30.15,Total Memory Free,60,3,5,DB-Bhopal
+10.51.30.15,ResponseTime,60,3,250,DB-Bhopal
+10.51.30.15,Total Memory Used,60,3,90,DB-Bhopal
+10.51.30.15,PacketLoss,60,3,10,DB-Bhopal
+10.54.34.34,Disk Usage,300,3,90,DB-Raipur
+10.54.34.34,Disk Usage: Per Drive,300,3,90,DB-Raipur
+10.54.34.34,Processor Usage: Per CPU,60,3,90,DB-Raipur
+10.54.34.34,Availability,60,3,0,DB-Raipur
+10.54.34.34,Memory Usage,60,3,90,DB-Raipur
+10.54.34.34,Processor Usage,60,3,90,DB-Raipur
+10.54.34.34,Server Hung Status,360,3,0,DB-Raipur
+10.54.34.34,PacketLoss,60,3,10,DB-Raipur
+10.54.34.34,ResponseTime,60,3,250,DB-Raipur
+172.16.92.1,CiscoMemoryUtilization,60,3,75,Bajaj
+172.16.92.1,PacketLoss,60,3,10,Bajaj
+172.16.92.1,Availability,60,3,0,Bajaj
+172.16.92.1,CiscoTemperature,60,3,75,Bajaj
+172.16.92.1,ResponseTime,60,3,250,Bajaj
+172.16.92.1,RouterCPUUtilization,60,3,60,Bajaj
+192.168.14.132,Availability,60,3,0,Bajaj
+192.168.14.132,Disk Usage,300,3,90,Bajaj
+192.168.14.132,ResponseTime,60,3,250,Bajaj
+192.168.14.132,Memory Usage,60,5,90,Bajaj
+192.168.14.132,Processor Usage,60,5,90,Bajaj
+192.168.14.132,Disk Usage: Per Drive,300,5,80,Bajaj
+192.168.14.132,Processor Usage: Per CPU,60,3,90,Bajaj
+192.168.14.132,PacketLoss,60,3,10,Bajaj
+10.54.30.13,Total Memory Free,300,10,5,DB-Raipur
+10.54.30.13,Availability,60,10,0,DB-Raipur
+10.54.30.13,CPUUtilization,60,10,90,DB-Raipur
+10.54.30.13,Disk Utilization,180,5,90,DB-Raipur
+10.54.30.13,Per Core CPU Usage,60,3,90,DB-Raipur
+10.54.30.13,Total Memory Used,60,10,90,DB-Raipur
+192.168.242.6,Availability,10,12,0,ATMSL
+192.168.242.6,RouterCPUUtilization,60,3,60,ATMSL
+192.168.242.6,ResponseTime,60,3,250,ATMSL
+192.168.242.6,PacketLoss,10,12,10,ATMSL
+192.168.242.6,CiscoMemoryUtilization,60,3,75,ATMSL
+192.168.242.6,CiscoTemperature,60,3,75,ATMSL
+192.168.242.6,CiscoCPUUtilization_total_5M_Rev,60,3,75,ATMSL
+192.168.242.6,CiscoCPUUtilization_total_1M_Rev,60,3,75,ATMSL
+192.168.242.6,CiscoCPUUtilization_total_1M,60,3,75,ATMSL
+192.168.242.6,CiscoCPUUtilization_total_5M,60,3,75,ATMSL
